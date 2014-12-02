@@ -1,0 +1,13 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "Simple repo to demonstrate a bug",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomruggs/a.git"
+  },
+  "dependencies": {
+    "a": "git+https://github.com/tomruggs/b.git"
+  }
+}
