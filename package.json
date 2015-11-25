@@ -8,6 +8,6 @@
     "url": "https://github.com/tomruggs/a.git"
   },
   "dependencies": {
-    "a": "git+https://github.com/tomruggs/b.git"
+    "b": "git+https://github.com/tomruggs/b.git"
   }
 }
